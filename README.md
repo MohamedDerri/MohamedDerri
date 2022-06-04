@@ -1,7 +1,7 @@
 ### Hi, it s me, Mohamed Derri 👋
 #### this is my 42 profile card
 
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=mderri)](https://github.com/mohouyizme/1337-readme)
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=mderri)]
 
 <!--
 **MohamedDerri/MohamedDerri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
