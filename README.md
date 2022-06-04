@@ -3,7 +3,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedDerri&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/MohamedDerri/github-readme-stats)
 
 <!--
 **MohamedDerri/MohamedDerri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
