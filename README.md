@@ -1,9 +1,7 @@
 ### Hi, it s me, Mohamed Derri 👋
 #### this is my 42 profile card
 
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=mderri-xi)]
-
-[![mderri's 42 stats](https://badge.mediaplus.ma/levi/mderri)](https://github.com/oakoudad/badge42)
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=mderri-xi)](https://github.com/mohouyizme/1337-readme)
 
 ### few stats about me : 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedDerri&show_icons=true&theme=radical)
