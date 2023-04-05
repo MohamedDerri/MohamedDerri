@@ -3,8 +3,7 @@
 
 [![mderri's 42 stats](https://badge.mediaplus.ma/levi/mderri)](https://github.com/oakoudad/badge42)
 
-### few stats about me : 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedDerri&show_icons=true&theme=radical)
+
 
 
 <!--
