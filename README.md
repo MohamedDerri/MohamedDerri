@@ -1,6 +1,6 @@
 ### Hi, it s me, Mohamed Derri 👋
 #### Find out more about me : 
-![MyPortfolio](https://www.mderri.com/)
+https://www.mderri.com/
 
 
 <!--[![mderri's 42 stats](https://badge.mediaplus.ma/levi/mderri)](https://github.com/oakoudad/badge42) -->
