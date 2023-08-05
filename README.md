@@ -1,7 +1,9 @@
 ### Hi, it s me, Mohamed Derri 👋
-#### this is my 42 profile card
+#### Find out more about me : 
+![MyPortfolio](https://www.mderri.com/)
 
-[![mderri's 42 stats](https://badge.mediaplus.ma/levi/mderri)](https://github.com/oakoudad/badge42)
+
+<!--[![mderri's 42 stats](https://badge.mediaplus.ma/levi/mderri)](https://github.com/oakoudad/badge42) -->
 
 
 
